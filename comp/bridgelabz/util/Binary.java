@@ -1,6 +1,6 @@
 
 /***************************************************************
-* Purpose: Find suare root using newton's law
+* Purpose: Program to convert decimal to binary conversion.
 * @author   Akash
 * @version  7.0
 * @since    13-08-2017
